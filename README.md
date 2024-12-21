@@ -12,4 +12,5 @@
 # Docker
 Чтобы создать контейнер я создал Dockerfile со всеми инструкциями. Далее я прописал команду "docker build -t quotebot .". Следом команду "docker run --rm quotebot". Контейнер создался и запустился, следовательно бот заработал.
 
-![image](https://github.com/user-attachments/assets/2b1f354a-b4c5-47d8-b4ba-29a88cc5cba3)
+![image](https://github.com/user-attachments/assets/613a01ce-0265-4374-a310-a9f2155578bf)
+
